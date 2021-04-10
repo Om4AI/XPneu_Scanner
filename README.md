@@ -1,4 +1,4 @@
-# Pneumonia-Detection-Using-Chest-X-ray-Scans By  </ Team Endurance />
+# Pneumonia-Detection-Using-Chest-X-ray-Scans By Team Endurance
 
 ## Abstract
 
@@ -14,10 +14,21 @@ Build an algorithm using AI/ML models to automatically identify whether a patien
 
 We aim at creating a model for scanning **Chest x-ray images** and classifying as Pneumoniatic / Normal x-rays. The model has been developed using **TensorFlow and Keras** using Transfer Learning using **VGG19**. 
 
-### ***Concepts:***
-1. Transfer Learning
-2. Early stopping (to avoid overfitting) 
+### Concepts: 
+1. Convolutional Neural Networks
+2. Transfer Learning
+3. Early stopping (to avoid overfitting) 
+4. Callbacks
 
+### Environment & Tools: 
+1. TensorFlow
+2. Keras
+3. Pandas
+4. Numpy
+5. Matplotlib
+6. Kaggle API
+7. Flask
 
+### Pretrained Model:
+#### VGG19 trained on ImageNet dataset
 
-The model will also be deployed to a local host server using Flask for further use.
