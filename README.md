@@ -1,4 +1,4 @@
-# Pneumonia-Detection-Using-Chest-X-ray-Scans By Team Endurance
+# Pneumonia-Detection-Using-Chest-X-ray-Scans
 
 ## *Abstract*
 
